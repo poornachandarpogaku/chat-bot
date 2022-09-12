@@ -18,7 +18,7 @@ public class Chat
 	      {
 	    	  list.removeFirst();
 	      }
-	      list.forEach(i -> System.out.println(i));  //lamda Expression
+	      list.forEach(i -> System.out.println(i));  
 		}
 		
 		
